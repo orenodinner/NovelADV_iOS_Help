@@ -1,0 +1,133 @@
+### NovelADV 利用規約
+
+**制定日: [2025年9月9日]**
+
+本利用規約（以下「本規約」といいます）は、[開発者名]（以下「当方」といいます）が提供するiOSアプリケーション「NovelADV」（以下「本アプリ」といいます）の利用条件を定めるものです。お客様は、本アプリを利用することにより、本規約に同意したものとみなされます。
+
+#### 第1条（適用）
+1.  本規約は、お客様と当方との間の本アプリの利用に関わる一切の関係に適用されるものとします。
+2.  当方は本アプリに関し、本規約のほか、プライバシーポリシーその他の諸規定（以下「個別規定」といいます）を定めることがあります。個別規定はその名称のいかんに関わらず、本規約の一部を構成するものとします。
+
+#### 第2条（本サービスの内容）
+1.  本アプリは、AI（人工知能）との対話を通じて、お客様が物語を創作することを支援するサービスです。
+2.  本アプリには、無料で利用できる機能と、サブスクリプション登録により利用可能となる有料機能（以下「プレミアムプラン」といいます）があります。機能の詳細はアプリ内の説明をご確認ください。
+
+#### 第3条（外部サービスの利用）
+1.  本アプリは、AIによる応答を生成するために、外部のAIサービス（OpenRouter社の提供するAPIなど、以下「外部AIサービス」といいます）を利用する機能を含みます。
+2.  外部AIサービスを利用する場合、お客様は当該サービスの利用規約およびプライバシーポリシーに同意する必要があります。
+3.  外部AIサービスの利用に必要なAPIキー等の認証情報（以下「APIキー等」といいます）は、お客様自身の責任において取得・管理するものとします。APIキー等の不正利用によって生じた損害について、当方は一切の責任を負いません。
+4.  お客様が「ローカルLLM」機能を選択した場合、AIによる処理はお客様のデバイス内で完結し、お客様のデータが外部に送信されることはありません。
+
+#### 第4条（サブスクリプション）
+1.  お客様は、所定の料金を支払うことにより、プレミアムプランを利用することができます。
+2.  料金の支払いは、Apple Inc.が提供する決済手段により行われます。料金、支払方法、自動更新、キャンセル方法については、AppleのApp Storeの規定に従うものとします。
+3.  サブスクリプションの管理および解約は、お客様ご自身のApple IDのアカウント設定から行ってください。
+4.  法令に別段の定めがある場合を除き、当方はお客様から受領した利用料金の返金には一切応じられません。
+
+#### 第5条（禁止事項）
+お客様は、本アプリの利用にあたり、以下の行為をしてはなりません。
+1.  法令または公序良俗に違反する行為
+2.  犯罪行為に関連する行為
+3.  当方、他のお客様、またはその他の第三者の著作権、商標権その他の知的財産権、プライバシー権、名誉権その他の権利または利益を侵害する行為
+4.  本アプリのサーバーまたはネットワークの機能を破壊したり、妨害したりする行為
+5.  本アプリの不具合を利用する行為
+6.  本アプリのリバースエンジニアリング、逆コンパイル、逆アセンブル、その他これに類する行為
+7.  その他、当方が不適切と判断する行為
+
+#### 第6条（お客様が作成したデータ）
+1.  お客様が本アプリを利用して作成した物語データ（テキスト、設定等を含み、以下「ユーザーコンテンツ」といいます）に関する著作権は、お客様自身に帰属します。
+2.  前項の規定にかかわらず、AIが生成した部分の著作権の取り扱いについては、お客様が利用する外部AIサービスの利用規約に従うものとします。お客様は、自身の責任において各サービスの規約を確認し、遵守するものとします。
+3.  ユーザーコンテンツは、お客様のデバイス内に保存されます。当方は、デバイスの故障、機種変更、アプリのアンインストール等によるユーザーコンテンツの消失について、一切の責任を負いません。お客様自身の責任において、本アプリが提供するバックアップ機能等を利用し、データを管理してください。
+
+#### 第7条（本アプリの知的財産権）
+本アプリおよび本アプリに関連する一切の情報についての著作権およびその他の知的財産権は、すべて当方または当方にその利用を許諾した権利者に帰属します。
+
+#### 第8条（免責事項）
+1.  当方は、本アプリに事実上または法律上の瑕疵（安全性、信頼性、正確性、完全性、有効性、特定の目的への適合性、セキュリティなどに関する欠陥、エラーやバグ、権利侵害などを含みます）がないことを明示的にも黙示的にも保証しておりません。
+2.  当方は、AIが生成するテキストの正確性、完全性、適切性、有用性、および第三者の権利を侵害しないことについて、一切保証しません。AIが生成したコンテンツの利用によって生じた損害について、当方は責任を負いません。
+3.  当方は、本アプリに起因してお客様に生じたあらゆる損害について、当方に故意または重過失がある場合を除き、一切の責任を負いません。ただし、本規約が消費者契約法に定める消費者契約となる場合、この免責規定は適用されません。
+4.  前項ただし書に定める場合であっても、当方は、当方の過失（重過失を除きます）による債務不履行または不法行為によりお客様に生じた損害のうち特別な事情から生じた損害（当方またはお客様が損害発生につき予見し、または予見し得た場合を含みます）について一切の責任を負いません。また、当方の過失（重過失を除きます）による債務不履行または不法行為によりお客様に生じた損害の賠償は、お客様から当該損害が発生した月に受領した利用料の額を上限とします。
+
+#### 第9条（サービス内容の変更・中断・終了）
+当方は、お客様に事前に通知することなく、本アプリの内容を変更し、または本アプリの提供を中断・終了することができるものとします。これによりお客様に生じた損害について、当方は一切の責任を負いません。
+
+#### 第10条（利用規約の変更）
+当方は、必要と判断した場合には、お客様に通知することなくいつでも本規約を変更することができるものとします。変更後の利用規約は、本アプリ内での掲示その他当方が適当と判断する方法によりお客様に通知された時点から効力を生じるものとします。
+
+#### 第11条（準拠法・裁判管轄）
+1.  本規約の解釈にあたっては、日本法を準拠法とします。
+2.  本アプリに関して紛争が生じた場合には、東京地方裁判所を第一審の専属的合意管轄裁判所とします。
+
+#### 第12条（お問い合わせ）
+本規約に関するお問い合わせは、以下の連絡先までお願いいたします。
+
+**[orenodinner@gmail.com]**
+
+---
+
+### NovelADV Terms of Service
+
+**Effective Date: [2025/9/9]**
+
+These Terms of Service (hereinafter referred to as the "Terms") set forth the conditions of use for the iOS application "NovelADV" (hereinafter referred to as the "Application") provided by [Developer Name] (hereinafter referred to as the "Developer"). By using this Application, you are deemed to have agreed to these Terms.
+
+#### Article 1 (Application)
+1.  These Terms shall apply to any and all relationships between you (the "User") and the Developer concerning the use of the Application.
+2.  In addition to these Terms, the Developer may establish other rules and provisions, such as a Privacy Policy (hereinafter referred to as "Supplemental Policies"). These Supplemental Policies, regardless of their name, shall constitute a part of these Terms.
+
+#### Article 2 (Description of the Service)
+1.  The Application is a service designed to assist Users in creating stories through interaction with an AI (Artificial Intelligence).
+2.  The Application includes features available for free and premium features available through a subscription (hereinafter referred to as the "Premium Plan"). Details of these features can be found within the Application.
+
+#### Article 3 (Use of External Services)
+1.  The Application includes functionality that utilizes external AI services (such as APIs provided by OpenRouter, hereinafter referred to as "External AI Services") to generate responses.
+2.  When using an External AI Service, you must agree to the terms of service and privacy policy of that service.
+3.  You are solely responsible for obtaining and managing any authentication credentials, such as API keys, required to use External AI Services. The Developer shall not be liable for any damages arising from the unauthorized use of your API keys.
+4.  When you select the "Local LLM" feature, all AI processing is performed on your device, and none of your data is transmitted to external servers.
+
+#### Article 4 (Subscription)
+1.  Users may access the Premium Plan by paying the prescribed fee.
+2.  Payments are processed through the payment system provided by Apple Inc. The fees, payment methods, auto-renewal, and cancellation methods are subject to the terms and conditions of the Apple App Store.
+3.  You are responsible for managing and canceling your subscription through your Apple ID account settings.
+4.  Except as otherwise required by law, the Developer will not provide any refunds for fees already paid.
+
+#### Article 5 (Prohibited Activities)
+In using the Application, you shall not engage in any of the following acts:
+1.  Acts that violate laws or public order and morals.
+2.  Acts related to criminal activity.
+3.  Acts that infringe upon the copyrights, trademarks, privacy rights, honor, or other rights or interests of the Developer, other users, or third parties.
+4.  Acts that destroy or interfere with the functionality of the Application's servers or network.
+5.  Acts that exploit bugs in the Application.
+6.  Acts of reverse engineering, decompiling, disassembling, or any similar acts on the Application.
+7.  Any other acts that the Developer deems inappropriate.
+
+#### Article 6 (User-Generated Content)
+1.  The copyright for the story data (including text, settings, etc., hereinafter referred to as "User Content") created by you using the Application shall belong to you.
+2.  Notwithstanding the preceding paragraph, the handling of copyrights for parts generated by the AI shall be subject to the terms of use of the External AI Service you use. You are responsible for reviewing and complying with the terms of the respective services.
+3.  User Content is stored on your device. The Developer shall not be liable for any loss of User Content due to device malfunction, changing devices, uninstalling the Application, or any other reason. You are responsible for managing your data using the backup features provided by the Application or other means.
+
+#### Article 7 (Intellectual Property Rights of the Application)
+All copyrights and other intellectual property rights in and to the Application and all related information belong to the Developer or to the rights holders who have licensed their use to the Developer.
+
+#### Article 8 (Disclaimers and Limitation of Liability)
+1.  THE APPLICATION IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF SAFETY, RELIABILITY, ACCURACY, COMPLETENESS, EFFECTIVENESS, FITNESS FOR A PARTICULAR PURPOSE, SECURITY, FREEDOM FROM BUGS OR ERRORS, OR NON-INFRINGEMENT.
+2.  The Developer does not guarantee the accuracy, completeness, appropriateness, usefulness, or non-infringement of third-party rights of any text generated by the AI. The Developer shall not be liable for any damages arising from the use of content generated by the AI.
+3.  The Developer shall not be liable for any damages incurred by the User arising from the Application, except in cases of willful misconduct or gross negligence on the part of the Developer. However, if the agreement under these Terms constitutes a consumer contract as defined under the Consumer Contract Act of Japan, this disclaimer shall not apply.
+4.  Even in the case prescribed in the proviso of the preceding paragraph, the Developer shall not be liable for any damages arising from special circumstances (including cases where the Developer or the User foresaw or could have foreseen the occurrence of such damages) out of damages caused to the User by default or tort due to the Developer's negligence (excluding gross negligence). Furthermore, compensation for damages incurred by the User due to default or tort arising from the Developer's negligence (excluding gross negligence) shall be limited to the amount of the usage fees received from the User in the month in which the said damages occurred.
+
+#### Article 9 (Modification, Suspension, and Termination of the Service)
+The Developer may modify the content of the Application or suspend or terminate the provision of the Application at any time without prior notice to the User. The Developer shall not be liable for any damages incurred by the User as a result of these actions.
+
+#### Article 10 (Changes to the Terms of Service)
+The Developer reserves the right to modify these Terms at any time without notice to the User if deemed necessary. The modified Terms will become effective from the time they are posted within the Application or notified to the User by a method deemed appropriate by the Developer.
+
+#### Article 11 (Governing Law and Jurisdiction)
+1.  These Terms shall be governed by and construed in accordance with the laws of Japan.
+2.  Any disputes arising in connection with the Application shall be subject to the exclusive jurisdiction of the Tokyo District Court as the court of first instance.
+
+#### Article 12 (Contact Information)
+For any inquiries regarding these Terms, please contact us at the following address:
+
+**[orenodinner@gmail.com]**
+
+
