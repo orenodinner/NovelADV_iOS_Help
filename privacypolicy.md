@@ -64,4 +64,87 @@
 
 **[orenodinner@gmail.com]**
 
-以上
+----
+
+NovelADV Privacy Policy
+
+Effective Date: [2025/9/9]
+
+This Privacy Policy (the "Policy") describes how [Developer Name] (the "Developer," "we," "us," or "our") handles your information in connection with the iOS application "NovelADV" (the "Application"). Please read this Policy carefully before using the Application.
+
+1. Information We Collect
+
+We may collect the following types of information through the Application. Information collection is limited to what is necessary to provide the features of the Application.
+
+1.1. Information You Provide Directly
+
+Story Data: All data that constitutes your stories, including project titles, world settings, character profiles, and chat history (including both your inputs and AI-generated responses). This data is stored exclusively on your device.
+
+OpenRouter API Key: If you choose to use "OpenRouter" as your AI provider, the API key required for the service. This key is stored securely in your device's Keychain, encrypted by the operating system. We do not have the ability to access or collect this key.
+
+1.2. Information Collected Automatically
+
+Purchase Information: If you purchase a subscription, the transaction is processed through Apple's payment system. We receive confirmation of your subscription status (such as the plan purchased and its validity period) but do not directly collect or store payment details like your credit card number or personal name.
+
+1.3. Information We Do Not Collect
+We do not collect personally identifiable information (PII) such as your name, address, phone number, or email address. We do not collect or use advertising identifiers (IDFA) or track your activity for analytical purposes.
+
+2. How We Use Your Information
+
+We use the collected information for the following purposes:
+
+To provide the core features of the Application (e.g., creating and saving stories, interacting with the AI).
+
+To enable creative assistance features, such as AI-powered story generation, summarization, and automatic updates to character profiles.
+
+To process subscription purchases, verify your subscription status, and provide premium features.
+
+To save and manage your application settings on your device.
+
+To provide backup (export) and restore (import) functionality for your project data.
+
+3. Sharing of Information with Third Parties
+
+We do not share your information with third parties, except in the following cases:
+
+Use of OpenRouter API:
+If you select "OpenRouter" as your AI provider, contextual information from your story (such as recent chat history, story summaries, and character profiles) will be sent to OpenRouter's API servers to generate AI responses. The data transmitted includes the content of the stories you create. Your use of the OpenRouter service is subject to their own Terms of Service and Privacy Policy, which you should review.
+
+Use of Local LLM:
+If you select "Local LLM" as your AI provider, all AI processing is completed entirely on your device. In this case, none of your story data is transmitted to any external server.
+
+Apple's Payment System:
+Subscription purchases are processed through the payment system provided by Apple Inc.
+
+Legal Requirements:
+We may disclose your information if required to do so by law or in response to a valid request from a public authority (e.g., a court or a police agency).
+
+4. Subscriptions
+
+The Application offers auto-renewing subscriptions through Apple's App Store.
+
+Payment will be charged to your Apple ID account at the confirmation of purchase.
+
+The subscription automatically renews unless it is canceled at least 24 hours before the end of the current period.
+
+You can manage and cancel your subscriptions by going to your App Store account settings after purchase.
+
+We do not access, collect, or store your Apple ID, password, or payment information.
+
+5. Data Management and Retention
+
+The story data you create is stored in a secure area on your device. This data is not uploaded to our servers.
+
+Your OpenRouter API key is stored securely in your device's Keychain.
+
+If you uninstall the Application, all story data stored on your device will be deleted.
+
+6. Changes to This Privacy Policy
+
+We may update this Policy from time to time to reflect changes in the law or our services. We will notify you of any significant changes in a clear and accessible manner, such as through an in-app notice.
+
+7. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+[orenodinner@gmail.com]
