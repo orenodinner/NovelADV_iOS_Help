@@ -1,133 +1,267 @@
-### NovelADV 利用規約
+NovelADV – Terms of Use & End User License Agreement (EULA)
 
-**制定日: [2025年9月9日]**
+Effective Date: 2025-09-19
+Provider: orenodinner (“we”, “us”, “our”)
+App: NovelADV – AI Visual Novel (“App”)
+Contact: <orenodinner@gmail.com>
 
-本利用規約（以下「本規約」といいます）は、[開発者名]（以下「当方」といいます）が提供するiOSアプリケーション「NovelADV」（以下「本アプリ」といいます）の利用条件を定めるものです。お客様は、本アプリを利用することにより、本規約に同意したものとみなされます。
+By downloading, accessing, or using the App, you agree to these Terms of Use & End User License Agreement (“Terms”). If you do not agree, do not use the App.
 
-#### 第1条（適用）
-1.  本規約は、お客様と当方との間の本アプリの利用に関わる一切の関係に適用されるものとします。
-2.  当方は本アプリに関し、本規約のほか、プライバシーポリシーその他の諸規定（以下「個別規定」といいます）を定めることがあります。個別規定はその名称のいかんに関わらず、本規約の一部を構成するものとします。
+⸻
 
-#### 第2条（本サービスの内容）
-1.  本アプリは、AI（人工知能）との対話を通じて、お客様が物語を創作することを支援するサービスです。
-2.  本アプリには、無料で利用できる機能と、サブスクリプション登録により利用可能となる有料機能（以下「プレミアムプラン」といいます）があります。機能の詳細はアプリ内の説明をご確認ください。
+1. License to Use the App (EULA)
 
-#### 第3条（外部サービスの利用）
-1.  本アプリは、AIによる応答を生成するために、外部のAIサービス（OpenRouter社の提供するAPIなど、以下「外部AIサービス」といいます）を利用する機能を含みます。
-2.  外部AIサービスを利用する場合、お客様は当該サービスの利用規約およびプライバシーポリシーに同意する必要があります。
-3.  外部AIサービスの利用に必要なAPIキー等の認証情報（以下「APIキー等」といいます）は、お客様自身の責任において取得・管理するものとします。APIキー等の不正利用によって生じた損害について、当方は一切の責任を負いません。
-4.  お客様が「ローカルLLM」機能を選択した場合、AIによる処理はお客様のデバイス内で完結し、お客様のデータが外部に送信されることはありません。
+Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to install and use the App on iOS devices that you own or control, solely for personal and non-commercial purposes.
 
-#### 第4条（サブスクリプション）
-1.  お客様は、所定の料金を支払うことにより、プレミアムプランを利用することができます。
-2.  料金の支払いは、Apple Inc.が提供する決済手段により行われます。料金、支払方法、自動更新、キャンセル方法については、AppleのApp Storeの規定に従うものとします。
-3.  サブスクリプションの管理および解約は、お客様ご自身のApple IDのアカウント設定から行ってください。
-4.  法令に別段の定めがある場合を除き、当方はお客様から受領した利用料金の返金には一切応じられません。
+For copies obtained via the Apple App Store, these Terms supplement the Apple Licensed Application End User License Agreement. If there is a conflict, the Apple EULA may apply to the extent required by Apple’s policies.
+Apple Standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-#### 第5条（禁止事項）
-お客様は、本アプリの利用にあたり、以下の行為をしてはなりません。
-1.  法令または公序良俗に違反する行為
-2.  犯罪行為に関連する行為
-3.  当方、他のお客様、またはその他の第三者の著作権、商標権その他の知的財産権、プライバシー権、名誉権その他の権利または利益を侵害する行為
-4.  本アプリのサーバーまたはネットワークの機能を破壊したり、妨害したりする行為
-5.  本アプリの不具合を利用する行為
-6.  本アプリのリバースエンジニアリング、逆コンパイル、逆アセンブル、その他これに類する行為
-7.  その他、当方が不適切と判断する行為
+You may not: (a) copy, modify, reverse engineer, decompile, or disassemble the App except as permitted by law; (b) remove proprietary notices; (c) circumvent technical protections; (d) use the App for unlawful purposes.
 
-#### 第6条（お客様が作成したデータ）
-1.  お客様が本アプリを利用して作成した物語データ（テキスト、設定等を含み、以下「ユーザーコンテンツ」といいます）に関する著作権は、お客様自身に帰属します。
-2.  前項の規定にかかわらず、AIが生成した部分の著作権の取り扱いについては、お客様が利用する外部AIサービスの利用規約に従うものとします。お客様は、自身の責任において各サービスの規約を確認し、遵守するものとします。
-3.  ユーザーコンテンツは、お客様のデバイス内に保存されます。当方は、デバイスの故障、機種変更、アプリのアンインストール等によるユーザーコンテンツの消失について、一切の責任を負いません。お客様自身の責任において、本アプリが提供するバックアップ機能等を利用し、データを管理してください。
+⸻
 
-#### 第7条（本アプリの知的財産権）
-本アプリおよび本アプリに関連する一切の情報についての著作権およびその他の知的財産権は、すべて当方または当方にその利用を許諾した権利者に帰属します。
+2. Account & Eligibility
 
-#### 第8条（免責事項）
-1.  当方は、本アプリに事実上または法律上の瑕疵（安全性、信頼性、正確性、完全性、有効性、特定の目的への適合性、セキュリティなどに関する欠陥、エラーやバグ、権利侵害などを含みます）がないことを明示的にも黙示的にも保証しておりません。
-2.  当方は、AIが生成するテキストの正確性、完全性、適切性、有用性、および第三者の権利を侵害しないことについて、一切保証しません。AIが生成したコンテンツの利用によって生じた損害について、当方は責任を負いません。
-3.  当方は、本アプリに起因してお客様に生じたあらゆる損害について、当方に故意または重過失がある場合を除き、一切の責任を負いません。ただし、本規約が消費者契約法に定める消費者契約となる場合、この免責規定は適用されません。
-4.  前項ただし書に定める場合であっても、当方は、当方の過失（重過失を除きます）による債務不履行または不法行為によりお客様に生じた損害のうち特別な事情から生じた損害（当方またはお客様が損害発生につき予見し、または予見し得た場合を含みます）について一切の責任を負いません。また、当方の過失（重過失を除きます）による債務不履行または不法行為によりお客様に生じた損害の賠償は、お客様から当該損害が発生した月に受領した利用料の額を上限とします。
+You must be legally able to form a contract in your country (typically 13+ with guardian consent, or as required by local law). You are responsible for your device, internet connection, and keeping your settings secure.
 
-#### 第9条（サービス内容の変更・中断・終了）
-当方は、お客様に事前に通知することなく、本アプリの内容を変更し、または本アプリの提供を中断・終了することができるものとします。これによりお客様に生じた損害について、当方は一切の責任を負いません。
+⸻
 
-#### 第10条（利用規約の変更）
-当方は、必要と判断した場合には、お客様に通知することなくいつでも本規約を変更することができるものとします。変更後の利用規約は、本アプリ内での掲示その他当方が適当と判断する方法によりお客様に通知された時点から効力を生じるものとします。
+3. Subscriptions & In-App Purchases (Auto-Renewable)
 
-#### 第11条（準拠法・裁判管轄）
-1.  本規約の解釈にあたっては、日本法を準拠法とします。
-2.  本アプリに関して紛争が生じた場合には、東京地方裁判所を第一審の専属的合意管轄裁判所とします。
+The App offers auto-renewing subscriptions sold and billed by Apple via your Apple ID. Prices and availability vary by region and are shown in-app and on the App Store product page at the time of purchase.
 
-#### 第12条（お問い合わせ）
-本規約に関するお問い合わせは、以下の連絡先までお願いいたします。
+Subscription titles and lengths (examples; your region may localize names/prices):
+	•	NovelADV Premium (Monthly) – Renews every 1 month at the price shown in-app.
+	•	NovelADV Premium (Yearly) – Renews every 12 months at the price shown in-app. Where displayed, we may show an approximate per-month equivalent for convenience.
 
-**[orenodinner@gmail.com]**
+Free trials / introductory offers (if available): When a trial ends, your subscription converts to a paid subscription automatically unless you cancel at least 24 hours before the period ends. Unused portions of a free trial are forfeited when you subscribe.
+
+Billing & renewal: Payment is charged to your Apple ID. Your subscription renews automatically unless you cancel at least 24 hours before the end of the current period. Your Apple ID may be charged for renewal within 24 hours prior to the end of the period.
+
+Manage or cancel: You can manage or cancel at any time in iOS:
+Settings › [Your Name] › Subscriptions (or App Store app › Account › Subscriptions). Deleting the App does not cancel your subscription.
+
+Refunds: Purchases are processed by Apple. Refund requests should be submitted via Apple at https://reportaproblem.apple.com/ or per your region’s Apple support policies.
+
+Restore Purchases: On a new device, use the App’s Restore Purchases option while signed in with the same Apple ID.
+
+We may change subscription offerings, features, or pricing prospectively. If required by law, we will provide advance notice.
+
+⸻
+
+4. Features, AI Output & Content Rules
+
+The App enables creation, generation, and storage of stories, characters, and media using on-device logic and/or third-party AI models/services.
+	•	AI Output: AI-generated content may be inaccurate, incomplete, or inappropriate. You are responsible for evaluating output before use. Do not rely on the App for medical, legal, or other professional advice.
+	•	Your Content: You retain any rights you hold in content you create. You grant us a limited license to process your content solely to operate and improve the App (e.g., to perform backups/restores you trigger).
+	•	Prohibited Use: Do not submit or generate content that is illegal; infringes IP; involves harassment, hate, or exploitation; or violates platform policies or local law. Do not attempt to abuse rate limits or security.
+
+We may remove content or suspend/terminate access for violations.
+
+⸻
+
+5. Privacy
+
+Your use of the App is subject to our Privacy Policy, which explains what data we collect and how we use it.
+Privacy Policy: https://orenodinner.github.io/NovelADV_iOS_Help/privacy.html
+
+For purchases and subscriptions, Apple may also process your personal data in accordance with Apple’s policies.
+
+⸻
+
+6. Intellectual Property
+
+The App, including its software, design, graphics, and trademarks, is owned by us or our licensors and is protected by copyright and other laws. Except for the license granted in Section 1, no rights are transferred.
+
+⸻
+
+7. Third-Party Services & Models
+
+The App may interact with third-party services (e.g., model providers, cloud storage). We are not responsible for third-party services, their availability, or their terms. Your use of such services may be governed by separate terms.
+
+⸻
+
+8. Disclaimers; Limitation of Liability
+
+THE APP IS PROVIDED “AS IS” AND “AS AVAILABLE.” TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+To the maximum extent permitted by law, we will not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for loss of data, profits, or goodwill, arising out of or relating to your use of the App. Our aggregate liability for direct damages will not exceed the amount you paid for the App or the fees paid for your subscription in the twelve (12) months preceding the claim (if any). Some jurisdictions do not allow certain limitations; in that case, the limitations apply to the fullest extent permitted.
+
+⸻
+
+9. Termination
+
+You may stop using the App at any time. We may suspend or terminate your access if you breach these Terms, if required by law, or in case of misuse. Sections intended to survive (e.g., IP, Disclaimers, Liability limits) will survive termination.
+
+⸻
+
+10. Updates & Changes
+
+We may update the App or these Terms from time to time (for example, to reflect new features, pricing, or legal requirements). Material changes will be effective prospectively. Continued use after changes means you accept the revised Terms.
+
+⸻
+
+11. Governing Law & Dispute Resolution
+
+These Terms are governed by the laws of Japan, without regard to conflict-of-laws rules. You agree that the Tokyo District Court (Japan) shall have exclusive jurisdiction and venue over disputes arising out of or relating to these Terms or the App. If your local law grants you mandatory consumer rights, this clause does not deprive you of those rights.
+
+⸻
+
+12. Contact
+
+Questions about these Terms or the App: <orenodinner@gmail.com>
+
+⸻
+
+13. Country-Specific Terms (If Required)
+
+If mandatory local laws in your country grant you additional rights, those rights remain unaffected.
+
+⸻
+
+Appendix: Required Subscription Disclosures (Apple Guideline 3.1.2)
+	•	Title: NovelADV Premium (Monthly); NovelADV Premium (Yearly)
+	•	Length: Monthly (1 month), Yearly (12 months)
+	•	Price: Shown in-app and on the App Store; varies by region/currency
+	•	Per-unit price: Where applicable, an approximate per-month equivalent for the Yearly plan is shown in-app
+	•	Links:
+	•	Terms of Use (EULA): (this page)
+	•	Privacy Policy: https://orenodinner.github.io/NovelADV_iOS_Help/privacypolicy.html
+	•	Manage/Cancel: iOS Settings › [yourname] › Subscriptions (or App Store › Account › Subscriptions)
+	•	Auto-Renewal: Renews automatically unless cancelled ≥24h before the end of the period
+	•	Free Trial: Converts to paid unless cancelled in time; unused portions are forfeited upon purchase
+	•	Refunds: Via Apple at https://reportaproblem.apple.com/
 
 ---
 
-### NovelADV Terms of Service
+ NovelADV – 利用規約／エンドユーザー使用許諾契約（EULA）
 
-**Effective Date: [2025/9/9]**
+発効日：2025-09-19（JST）
+提供者：orenodinner（以下「当社」）
+アプリ：NovelADV – AI Visual Novel（以下「本アプリ」）
+連絡先：orenodinner@gmail.com
 
-These Terms of Service (hereinafter referred to as the "Terms") set forth the conditions of use for the iOS application "NovelADV" (hereinafter referred to as the "Application") provided by [Developer Name] (hereinafter referred to as the "Developer"). By using this Application, you are deemed to have agreed to these Terms.
+本アプリのダウンロード・アクセス・利用により、本規約／EULA（以下「本規約」）に同意したものとみなします。不同意の場合は利用しないでください。
 
-#### Article 1 (Application)
-1.  These Terms shall apply to any and all relationships between you (the "User") and the Developer concerning the use of the Application.
-2.  In addition to these Terms, the Developer may establish other rules and provisions, such as a Privacy Policy (hereinafter referred to as "Supplemental Policies"). These Supplemental Policies, regardless of their name, shall constitute a part of these Terms.
+⸻
 
-#### Article 2 (Description of the Service)
-1.  The Application is a service designed to assist Users in creating stories through interaction with an AI (Artificial Intelligence).
-2.  The Application includes features available for free and premium features available through a subscription (hereinafter referred to as the "Premium Plan"). Details of these features can be found within the Application.
+1. 使用許諾（EULA）
 
-#### Article 3 (Use of External Services)
-1.  The Application includes functionality that utilizes external AI services (such as APIs provided by OpenRouter, hereinafter referred to as "External AI Services") to generate responses.
-2.  When using an External AI Service, you must agree to the terms of service and privacy policy of that service.
-3.  You are solely responsible for obtaining and managing any authentication credentials, such as API keys, required to use External AI Services. The Developer shall not be liable for any damages arising from the unauthorized use of your API keys.
-4.  When you select the "Local LLM" feature, all AI processing is performed on your device, and none of your data is transmitted to external servers.
+本規約に従う限り、当社は、あなたが所有または管理する iOS デバイス上で、本アプリを個人的かつ非商用の目的で使用するための限定的・非独占的・譲渡不可・サブライセンス不可・取消可能なライセンスを付与します。
+App Store から入手したコピーには Apple 標準 EULA が適用される場合があり、本規約と矛盾する場合は Apple のポリシー上必要な範囲で Apple 標準 EULA が優先します。
+Apple 標準 EULA：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-#### Article 4 (Subscription)
-1.  Users may access the Premium Plan by paying the prescribed fee.
-2.  Payments are processed through the payment system provided by Apple Inc. The fees, payment methods, auto-renewal, and cancellation methods are subject to the terms and conditions of the Apple App Store.
-3.  You are responsible for managing and canceling your subscription through your Apple ID account settings.
-4.  Except as otherwise required by law, the Developer will not provide any refunds for fees already paid.
+禁止事項：法令上認められる場合を除き、(a) 逆コンパイル・逆アセンブル・リバースエンジニアリング、(b) 権利表示の削除、(c) 技術的保護手段の回避、(d) 違法目的での利用、を行ってはなりません。
 
-#### Article 5 (Prohibited Activities)
-In using the Application, you shall not engage in any of the following acts:
-1.  Acts that violate laws or public order and morals.
-2.  Acts related to criminal activity.
-3.  Acts that infringe upon the copyrights, trademarks, privacy rights, honor, or other rights or interests of the Developer, other users, or third parties.
-4.  Acts that destroy or interfere with the functionality of the Application's servers or network.
-5.  Acts that exploit bugs in the Application.
-6.  Acts of reverse engineering, decompiling, disassembling, or any similar acts on the Application.
-7.  Any other acts that the Developer deems inappropriate.
+⸻
 
-#### Article 6 (User-Generated Content)
-1.  The copyright for the story data (including text, settings, etc., hereinafter referred to as "User Content") created by you using the Application shall belong to you.
-2.  Notwithstanding the preceding paragraph, the handling of copyrights for parts generated by the AI shall be subject to the terms of use of the External AI Service you use. You are responsible for reviewing and complying with the terms of the respective services.
-3.  User Content is stored on your device. The Developer shall not be liable for any loss of User Content due to device malfunction, changing devices, uninstalling the Application, or any other reason. You are responsible for managing your data using the backup features provided by the Application or other means.
+2. アカウント・利用資格
 
-#### Article 7 (Intellectual Property Rights of the Application)
-All copyrights and other intellectual property rights in and to the Application and all related information belong to the Developer or to the rights holders who have licensed their use to the Developer.
+居住国の法令に基づき契約能力を有している必要があります（一般に 13 歳以上＋保護者同意等）。デバイス・通信環境・設定の管理は利用者の責任です。
 
-#### Article 8 (Disclaimers and Limitation of Liability)
-1.  THE APPLICATION IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF SAFETY, RELIABILITY, ACCURACY, COMPLETENESS, EFFECTIVENESS, FITNESS FOR A PARTICULAR PURPOSE, SECURITY, FREEDOM FROM BUGS OR ERRORS, OR NON-INFRINGEMENT.
-2.  The Developer does not guarantee the accuracy, completeness, appropriateness, usefulness, or non-infringement of third-party rights of any text generated by the AI. The Developer shall not be liable for any damages arising from the use of content generated by the AI.
-3.  The Developer shall not be liable for any damages incurred by the User arising from the Application, except in cases of willful misconduct or gross negligence on the part of the Developer. However, if the agreement under these Terms constitutes a consumer contract as defined under the Consumer Contract Act of Japan, this disclaimer shall not apply.
-4.  Even in the case prescribed in the proviso of the preceding paragraph, the Developer shall not be liable for any damages arising from special circumstances (including cases where the Developer or the User foresaw or could have foreseen the occurrence of such damages) out of damages caused to the User by default or tort due to the Developer's negligence (excluding gross negligence). Furthermore, compensation for damages incurred by the User due to default or tort arising from the Developer's negligence (excluding gross negligence) shall be limited to the amount of the usage fees received from the User in the month in which the said damages occurred.
+⸻
 
-#### Article 9 (Modification, Suspension, and Termination of the Service)
-The Developer may modify the content of the Application or suspend or terminate the provision of the Application at any time without prior notice to the User. The Developer shall not be liable for any damages incurred by the User as a result of these actions.
+3. サブスクリプション／アプリ内課金（自動更新）
 
-#### Article 10 (Changes to the Terms of Service)
-The Developer reserves the right to modify these Terms at any time without notice to the User if deemed necessary. The modified Terms will become effective from the time they are posted within the Application or notified to the User by a method deemed appropriate by the Developer.
+本アプリは Apple の App Store を通じて自動更新サブスクリプションを提供します。価格・提供状況は地域により異なり、購入時点でアプリ内および製品ページに表示されます。
 
-#### Article 11 (Governing Law and Jurisdiction)
-1.  These Terms shall be governed by and construed in accordance with the laws of Japan.
-2.  Any disputes arising in connection with the Application shall be subject to the exclusive jurisdiction of the Tokyo District Court as the court of first instance.
+プラン名と期間（例）：
+	•	NovelADV Premium（月額）：1 か月ごとに自動更新
+	•	NovelADV Premium（年額）：12 か月ごとに自動更新（表示される場合、月換算の参考額を併記）
 
-#### Article 12 (Contact Information)
-For any inquiries regarding these Terms, please contact us at the following address:
+無料トライアル／導入割引：提供される場合、期間満了後に解約しない限り自動的に有料更新されます。購入時点で未使用のトライアル残期間は失効します。
 
-**[orenodinner@gmail.com]**
+課金・更新：支払いはApple ID に請求されます。現在期間の終了24 時間前以降に次回更新分が請求されることがあります。終了の 24 時間以上前までに解約しない限り自動更新されます。
 
+管理・解約：
+iOS の 設定 ＞ [あなたの名前] ＞ サブスクリプション（または App Store アプリ ＞ アカウント ＞ サブスクリプション）からいつでも管理／解約できます。アプリを削除しても解約にはなりません。
 
+返金：購入処理は Apple により行われます。返金は地域の Apple 方針に従い、https://reportaproblem.apple.com/ から申請してください。
+
+購入の復元：新しいデバイスでは、同一 Apple ID でサインインのうえ、本アプリ内の購入復元を使用してください。
+
+当社は法令に従い、将来に向けて機能・提供内容・価格を変更する場合があります（必要に応じて事前通知します）。
+
+⸻
+
+4. 機能・AI 出力・コンテンツ規定
+
+本アプリは、端末内処理や第三者 AI モデル／サービスを用いて物語・キャラクター・メディア等を生成・保存できます。
+	•	AI 出力：AI 生成物は不正確・不完全・不適切な場合があります。利用者は結果を検証し、医療・法律等の専門助言として依拠しないでください。
+	•	あなたのコンテンツ：作成したコンテンツに関する権利は原則としてあなたに留保されます。バックアップ／リストア等、本アプリ運用・改善に必要な範囲で処理するための限定的ライセンスを当社に付与します。
+	•	禁止コンテンツ・行為：違法、権利侵害、嫌がらせ・憎悪・搾取、プラットフォーム方針や各国法令に反するもの、またはレート制限・セキュリティの回避等は禁止します。
+
+違反時はコンテンツ削除や利用停止・契約終了を行うことがあります。
+
+⸻
+
+5. プライバシー
+
+本アプリの利用には当社のプライバシーポリシーが適用されます：
+https://orenodinner.github.io/NovelADV_iOS_Help/privacypolicy.html
+サブスクリプション・決済に関する個人データは Apple により処理される場合があります。
+
+⸻
+
+6. 知的財産
+
+本アプリ（ソフトウェア、デザイン、グラフィック、商標等）は当社またはライセンサーに帰属します。第 1 条の許諾を除き、いかなる権利も移転されません。
+
+⸻
+
+7. 第三者サービス・モデル
+
+本アプリは第三者サービス（モデル提供者、クラウド等）と連携する場合があります。当社は第三者サービスの可用性や条件に責任を負いません。各サービスの規約が別途適用されることがあります。
+
+⸻
+
+8. 免責・責任制限
+
+本アプリは「現状有姿」および「提供可能な範囲」で提供されます。 法の許す最大限まで、当社は商品性・特定目的適合性・非侵害性その他一切の明示黙示の保証を否認します。
+法の許す最大限まで、当社は間接的・付随的・特別・結果的・懲罰的損害、データ・利益・信用の喪失等について責任を負いません。当社の直接損害に対する総額責任は、あなたが本アプリに対して支払った対価、または直近 12 か月のサブスク料金の合計のいずれか高い方を上限とします（強行法規がある場合を除く）。
+
+⸻
+
+9. 契約終了
+
+あなたはいつでも利用を中止できます。あなたが本規約に違反した場合、法令上必要な場合、または不正利用が疑われる場合、当社は利用停止・契約終了を行うことがあります。知財、免責、責任制限等の条項は終了後も存続します。
+
+⸻
+
+10. 変更
+
+当社は適宜、本アプリまたは本規約を更新することがあります（新機能、価格改定、法令対応等）。重要な変更は原則として将来に向けて適用します。変更後の継続利用は新規約への同意を意味します。
+
+⸻
+
+11. 準拠法・裁判管轄
+
+本規約は日本法に準拠します。紛争は東京地方裁判所を第一審の専属的合意管轄裁判所とします（あなたの居住国の強行消費者保護法に基づく権利はこの限りではありません）。
+
+⸻
+
+12. お問い合わせ
+
+本規約または本アプリに関するお問い合わせ： orenodinner@gmail.com
+
+⸻
+
+13. 国・地域別条項
+
+各国の強行法規によりあなたに付与される追加の権利は引き続き有効です。
+
+⸻
+
+付録：Apple ガイドライン 3.1.2 の必須表示事項（要約）
+	•	タイトル：NovelADV Premium（月額）、NovelADV Premium（年額）
+	•	期間：月額＝1 か月、年額＝12 か月
+	•	価格：アプリ内および App Store に表示／地域・通貨で異なる
+	•	単価：年額プランは必要に応じて月換算の参考額を表示
+	•	リンク：
+	•	利用規約（EULA）：本ページ
+	•	プライバシーポリシー：https://orenodinner.github.io/NovelADV_iOS_Help/privacy.html
+	•	（参考）Apple 標準 EULA：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+	•	管理／解約：iOS 設定 ＞ [あなたの名前] ＞ サブスクリプション（または App Store ＞ アカウント ＞ サブスクリプション）
+	•	自動更新：期間終了24 時間以上前に解約しない限り自動更新
+	•	無料トライアル：期間終了までに解約しない場合は有料へ自動移行。購入時に未使用の残期間は失効
+	•	返金：https://reportaproblem.apple.com/ から Apple に申請
